@@ -1,0 +1,324 @@
+# depslib dependency file v1.0
+1652020586 source:e:\utilisateur\djib\bureau\ece arena main v3\deplacement.c
+	"maBiblio.h"
+
+1652022431 e:\utilisateur\djib\bureau\ece arena main v3\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652022193 source:e:\utilisateur\djib\bureau\ece arena main v3\grilleetath.c
+	"maBiblio.h"
+
+1652022468 source:e:\utilisateur\djib\bureau\ece arena main v3\init.c
+	"maBiblio.h"
+
+1652022609 source:e:\utilisateur\djib\bureau\ece arena main v3\main.c
+	"maBiblio.h"
+
+1652018825 source:e:\utilisateur\djib\bureau\ece arena main v3\menudebut.c
+	"maBiblio.h"
+
+1652020850 source:e:\utilisateur\djib\bureau\ece arena main v3\menuselection.c
+	"maBiblio.h"
+
+1652020586 source:e:\utilisateur\djib\bureau\ece arena main v3\range.c
+	"maBiblio.h"
+
+1652020668 source:e:\utilisateur\djib\bureau\ece arena main v3\ecriture.c
+	"maBiblio.h"
+
+1652020668 source:e:\utilisateur\djib\bureau\ece arena main v3\parametre.c
+	"maBiblio.h"
+
+1652284636 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\deplacement.c
+	"maBiblio.h"
+
+1652283950 c:\users\djibril\desktop\ece arena main versions\ece arena main v3\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652020668 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\ecriture.c
+	"maBiblio.h"
+
+1652022193 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\grilleetath.c
+	"maBiblio.h"
+
+1652022764 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\init.c
+	"maBiblio.h"
+
+1652018825 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\menudebut.c
+	"maBiblio.h"
+
+1652020850 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\menuselection.c
+	"maBiblio.h"
+
+1652020668 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\parametre.c
+	"maBiblio.h"
+
+1652283388 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\main.c
+	"maBiblio.h"
+
+1652283950 source:c:\users\djibril\desktop\ece arena main versions\ece arena main v3\range.c
+	"maBiblio.h"
+
+1652885535 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\deplacement.c
+	"maBiblio.h"
+
+1652886487 c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652020668 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\ecriture.c
+	"maBiblio.h"
+
+1652822372 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\init.c
+	"maBiblio.h"
+
+1652018825 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\menudebut.c
+	"maBiblio.h"
+
+1652020850 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\menuselection.c
+	"maBiblio.h"
+
+1652020668 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\parametre.c
+	"maBiblio.h"
+
+1652888159 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\range.c
+	"maBiblio.h"
+
+1652822305 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\grilleetath.c
+	"maBiblio.h"
+
+1652885094 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\main.c
+	"maBiblio.h"
+
+1652453739 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\affichagejoueur.c
+	"maBiblio.h"
+
+1652790994 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v4\attaque.c
+	"maBiblio.h"
+
+1652453739 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\affichagejoueur.c
+	"maBiblio.h"
+
+1652896715 c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652790994 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\attaque.c
+	"maBiblio.h"
+
+1652885535 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\deplacement.c
+	"maBiblio.h"
+
+1652020668 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\ecriture.c
+	"maBiblio.h"
+
+1652896029 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\grilleetath.c
+	"maBiblio.h"
+
+1652896715 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\init.c
+	"maBiblio.h"
+
+1652896715 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\menuselection.c
+	"maBiblio.h"
+
+1652898011 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\main.c
+	"maBiblio.h"
+
+1652890982 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\menudebut.c
+	"maBiblio.h"
+
+1652890923 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\parametre.c
+	"maBiblio.h"
+
+1652891164 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5\range.c
+	"maBiblio.h"
+
+1652976454 source:c:\users\djibril\desktop\ece arena main v5\affichagejoueur.c
+	"maBiblio.h"
+
+1652975618 c:\users\djibril\desktop\ece arena main v5\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652952385 source:c:\users\djibril\desktop\ece arena main v5\attaque.c
+	"maBiblio.h"
+
+1652977506 source:c:\users\djibril\desktop\ece arena main v5\deplacement.c
+	"maBiblio.h"
+
+1652020670 source:c:\users\djibril\desktop\ece arena main v5\ecriture.c
+	"maBiblio.h"
+
+1652976517 source:c:\users\djibril\desktop\ece arena main v5\grilleetath.c
+	"maBiblio.h"
+
+1652965173 source:c:\users\djibril\desktop\ece arena main v5\init.c
+	"maBiblio.h"
+
+1652976273 source:c:\users\djibril\desktop\ece arena main v5\main.c
+	"maBiblio.h"
+
+1652890984 source:c:\users\djibril\desktop\ece arena main v5\menudebut.c
+	"maBiblio.h"
+
+1652914595 source:c:\users\djibril\desktop\ece arena main v5\menuselection.c
+	"maBiblio.h"
+
+1652890924 source:c:\users\djibril\desktop\ece arena main v5\parametre.c
+	"maBiblio.h"
+
+1652969692 source:c:\users\djibril\desktop\ece arena main v5\range.c
+	"maBiblio.h"
+
+1652976456 source:c:\users\vinciane\documents\ece arena main v5\affichagejoueur.c
+	"maBiblio.h"
+
+1652983041 c:\users\vinciane\documents\ece arena main v5\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1652952386 source:c:\users\vinciane\documents\ece arena main v5\attaque.c
+	"maBiblio.h"
+
+1652983041 source:c:\users\vinciane\documents\ece arena main v5\deplacement.c
+	"maBiblio.h"
+
+1652983041 source:c:\users\vinciane\documents\ece arena main v5\ecriture.c
+	"maBiblio.h"
+
+1652983041 source:c:\users\vinciane\documents\ece arena main v5\grilleetath.c
+	"maBiblio.h"
+
+1652965174 source:c:\users\vinciane\documents\ece arena main v5\init.c
+	"maBiblio.h"
+
+1652984436 source:c:\users\vinciane\documents\ece arena main v5\main.c
+	"maBiblio.h"
+
+1652890984 source:c:\users\vinciane\documents\ece arena main v5\menudebut.c
+	"maBiblio.h"
+
+1652914596 source:c:\users\vinciane\documents\ece arena main v5\menuselection.c
+	"maBiblio.h"
+
+1652890924 source:c:\users\vinciane\documents\ece arena main v5\parametre.c
+	"maBiblio.h"
+
+1652969694 source:c:\users\vinciane\documents\ece arena main v5\range.c
+	"maBiblio.h"
+
+1652983341 source:c:\users\vinciane\documents\ece arena main v5\pouvoir.c
+	"maBiblio.h"
+
+1653134340 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\affichagejoueur.c
+	"maBiblio.h"
+
+1653234279 c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<unistd.h>
+
+1653233231 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\attaque.c
+	"maBiblio.h"
+
+1653156472 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\deplacement.c
+	"maBiblio.h"
+
+1652983042 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\ecriture.c
+	"maBiblio.h"
+
+1653214152 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\grilleetath.c
+	"maBiblio.h"
+
+1653233727 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\init.c
+	"maBiblio.h"
+
+1653233996 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\main.c
+	"maBiblio.h"
+
+1653233930 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\menudebut.c
+	"maBiblio.h"
+
+1653213983 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\menuselection.c
+	"maBiblio.h"
+
+1653228966 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\parametre.c
+	"maBiblio.h"
+
+1653227107 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\pouvoir.c
+	"maBiblio.h"
+
+1653156893 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\range.c
+	"maBiblio.h"
+
+1653157937 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\menufin.c
+	"maBiblio.h"
+
+1653229432 source:c:\users\djibril\desktop\projets ece\ece arena\ece arena main versions\ece arena main v5 (2)\ece arena main v5\timer.c
+	"maBiblio.h"
+
+1653130742 source:c:\users\djibril\desktop\ece arena\affichagejoueur.c
+	"maBiblio.h"
+
+1653230680 c:\users\djibril\desktop\ece arena\mabiblio.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<unistd.h>
+
+1653231260 source:c:\users\djibril\desktop\ece arena\attaque.c
+	"maBiblio.h"
+
+1653152874 source:c:\users\djibril\desktop\ece arena\deplacement.c
+	"maBiblio.h"
+
+1652979442 source:c:\users\djibril\desktop\ece arena\ecriture.c
+	"maBiblio.h"
+
+1653210554 source:c:\users\djibril\desktop\ece arena\grilleetath.c
+	"maBiblio.h"
+
+1653230128 source:c:\users\djibril\desktop\ece arena\init.c
+	"maBiblio.h"
+
+1653230398 source:c:\users\djibril\desktop\ece arena\main.c
+	"maBiblio.h"
+
+1653230332 source:c:\users\djibril\desktop\ece arena\menudebut.c
+	"maBiblio.h"
+
+1653154338 source:c:\users\djibril\desktop\ece arena\menufin.c
+	"maBiblio.h"
+
+1653210384 source:c:\users\djibril\desktop\ece arena\menuselection.c
+	"maBiblio.h"
+
+1653225368 source:c:\users\djibril\desktop\ece arena\parametre.c
+	"maBiblio.h"
+
+1653223508 source:c:\users\djibril\desktop\ece arena\pouvoir.c
+	"maBiblio.h"
+
+1653153294 source:c:\users\djibril\desktop\ece arena\range.c
+	"maBiblio.h"
+
+1653225834 source:c:\users\djibril\desktop\ece arena\timer.c
+	"maBiblio.h"
+
