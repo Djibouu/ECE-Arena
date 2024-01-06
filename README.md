@@ -14,3 +14,5 @@ Dans ce repository vous trouverez :
 En éspérant que vous apprécierez le travail que nous avons réalisés mes camarades et moi !
 
 Crédits à Adrien Thécy, Vinciane de Parcevaux, et Julie Allier qui sans eux ce projet n'aurait pu être aussi bien réussi en si peu de temps.
+
+PS : Le code n'est pas commenté mais si besoin n'hésitez pas à me contacter à l'adresse suivante pour en discuter et vous l'exliquer, djibril.remon@edu.ece.fr 
