@@ -1,0 +1,39 @@
+Ces instructions viennent directement du site de Mr Fercoq : https://fercoq.bitbucket.io/allegro/#Installation
+Tous les fichiers dont le tuto parle sont disponibles dans le dossier "Fichier Tuto".
+
+Je vous recommande fortements les cours disponibles sur ce site pour comprenndre et avoir une première bonne approche d'Allegro.
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Installation
+ 
+Il existe un Allegro version 5. Il n'est pas "mieux" pour nous.
+Il est complètement différent dans son usage et trop technique à notre niveau et vu les objectifs.
+Pour Windows utilisez la version 4.4 ci-dessous afin d'éviter tout problème de compatibilité.
+
+Windows
+Pour installer sur vos machines persos consulter les indications ci-dessous
+
+A jour, version 64 bits pour CodeBlocks 20.03 et ultérieurs
+Voir et suivre le document  tuto_installer_allegro_64.pdf
+Télécharger allegro_4_4_3_install.zip en suivant la procédure
+
+Plus ancien, version 32 bits 4.4.2 pour CodeBlocks 17.12
+Voir et suivre le document  tuto_installer_allegro.pdf
+Télécharger allegro_4_4_install.zip en suivant la procédure
+
+L'archive suivante contient 4 projets pour tester les fonctionnalités essentielles : allegro_checking.zip
+Pour tout projet Allegro ne pas oublier d'indiquer au linker : alleg44.dll
+
+macOS
+Allegro 4.x ne compile plus sur macOS  (Apple ne fait pas de la compatibilité historique une priorité)
+=> Installer Allegro dans un environnement Windows ou Linux sur votre hardware Apple...
+
+Linux
+Allegro 4.4 compile et fonctionne parfaitement sous Linux...
+sudo apt-get install liballegro4-dev
+Pour compiler sous Code::Blocks, menu déroulant Project > Build options...
+Compiler settings / Other compiler options : `allegro-config --cflags`
+Linker settings / Other linker options :  `allegro-config --libs`
+( ATTENTION bien mettre les guillemets simples inverse, backticks )
+Et enlever alleg ou alleg44.dll qui est dans Link libraries (projets distribués pour Windows)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
