@@ -15,4 +15,4 @@ En éspérant que vous apprécierez le travail que nous avons réalisés mes cam
 
 Crédits à Adrien Thécy, Vinciane de Parcevaux, et Julie Allier qui sans eux ce projet n'aurait pu être aussi bien réussi en si peu de temps.
 
-PS : Le code n'est pas commenté mais si besoin n'hésitez pas à me contacter pour en discuter et vous l'exliquer. djibril.remon@edu.ece.fr / https://www.linkedin.com/in/djibril-remon/
+PS : Le code n'est pas assez bien commenté mais si besoin n'hésitez pas à me contacter pour en discuter et vous l'exliquer. djibril.remon@edu.ece.fr / https://www.linkedin.com/in/djibril-remon/
